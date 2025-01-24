@@ -1,4 +1,4 @@
-
+# Week 1: Waste Classification Project
 
 ## Shell-Edunet Skills4Future Internship (Jan 2025 - Feb 2025)
 
