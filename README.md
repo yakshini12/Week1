@@ -33,7 +33,7 @@ The dataset used for this project contains images categorized into different cla
 
 ## Repository Structure
 - *README.md*: Project overview and documentation.
-- *wasteclassification.ipynb: Jupyter notebook containing the code for **data preprocessing, model development, training, and evaluation*.
+- *wasteclassification2.ipynb: Jupyter notebook containing the code for **data preprocessing, model development, training, and evaluation*.
 
 ## Conclusion
 This project provided valuable *hands-on experience* in developing and deploying a *CNN model* for image classification tasks. The skills and knowledge gained from this project will be instrumental in future *machine learning* and *data science* endeavors.
