@@ -38,4 +38,4 @@ The dataset used for this project contains images categorized into different cla
 ## Conclusion
 This project provided valuable *hands-on experience* in developing and deploying a *CNN model* for image classification tasks. The skills and knowledge gained from this project will be instrumental in future *machine learning* and *data science* endeavors.
 
-For more details, please refer to the *wasteclassification.ipynb* file in this repository.
+For more details, please refer to the *wasteclassification2.ipynb* file in this repository.
